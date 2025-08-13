@@ -1,5 +1,6 @@
 {
   "domain_rules": {
+    "chatgpt.com": ["AI"],
     "espn.com": ["Sports"],
     "nfl.com": ["Sports"],
     "nba.com": ["Sports"],
