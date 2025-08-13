@@ -1,0 +1,115 @@
+{
+  "domain_rules": {
+    "espn.com": ["Sports"],
+    "nfl.com": ["Sports"],
+    "nba.com": ["Sports"],
+    "mlb.com": ["Sports"],
+    "nhl.com": ["Sports"],
+    "skysports.com": ["Sports"],
+
+    "allrecipes.com": ["Food"],
+    "foodnetwork.com": ["Food"],
+    "cooking.nytimes.com": ["Food"],
+    "yelp.com": ["Food", "Travel"],
+
+    "finance.yahoo.com": ["Finance"],
+    "investopedia.com": ["Finance"],
+    "marketwatch.com": ["Finance"],
+    "bloomberg.com": ["Finance", "News"],
+    "coinmarketcap.com": ["Finance"],
+
+    "techcrunch.com": ["Technology", "News"],
+    "github.com": ["Technology"],
+    "stackoverflow.com": ["Technology", "Education"],
+    "learn.microsoft.com": ["Technology", "Education"],
+
+    "tripadvisor.com": ["Travel", "Food"],
+    "booking.com": ["Travel"],
+    "expedia.com": ["Travel"],
+    "airbnb.com": ["Travel"],
+
+    "cdc.gov": ["Health", "Government"],
+    "who.int": ["Health"],
+    "webmd.com": ["Health"],
+
+    "khanacademy.org": ["Education"],
+    "coursera.org": ["Education"],
+
+    "cars.com": ["Automotive"],
+    "caranddriver.com": ["Automotive"],
+
+    "zillow.com": ["Real Estate"],
+    "realtor.com": ["Real Estate"],
+
+    "indeed.com": ["Jobs/Careers"],
+    "glassdoor.com": ["Jobs/Careers"],
+
+    "weather.com": ["Weather"],
+    "accuweather.com": ["Weather"],
+
+    "amazon.com": ["Shopping"],
+    "walmart.com": ["Shopping"],
+    "target.com": ["Shopping"],
+    "bestbuy.com": ["Shopping"],
+
+    "cnn.com": ["News"],
+    "bbc.com": ["News"],
+    "reuters.com": ["News"],
+    "apnews.com": ["News"],
+    "nytimes.com": ["News"],
+
+    "imdb.com": ["Entertainment"],
+    "rottentomatoes.com": ["Entertainment"],
+    "twitch.tv": ["Entertainment", "Gaming"],
+    "ign.com": ["Gaming", "Entertainment"],
+    "reddit.com": ["Social", "News"]
+  },
+
+  "keyword_rules": [
+    { "kw": ["sport","sports","nfl","nba","mlb","nhl","soccer","football","tennis","golf","fifa","uefa","score","fixture","odds"], "cat": "Sports", "w": 2 },
+
+    { "kw": ["recipe","recipes","cook","cooking","restaurant","menu","food","dining","eat","chef","bake"], "cat": "Food", "w": 2 },
+
+    { "kw": ["stock","stocks","market","markets","finance","fintech","invest","investment","trading","crypto","bitcoin","nasdaq","dow","s&p","bond","banking"], "cat": "Finance", "w": 2 },
+
+    { "kw": ["tech","technology","software","developer","dev","coding","api","sdk","cloud","kubernetes","docker","linux","windows","macos","android","ios","server","database"], "cat": "Technology", "w": 2 },
+
+    { "kw": ["news","breaking","headline","journal","times","post","gazette","tribune","daily"], "cat": "News", "w": 1 },
+
+    { "kw": ["shop","shopping","store","cart","checkout","deal","deals","sale","purchase","retail"], "cat": "Shopping", "w": 2 },
+
+    { "kw": ["travel","hotel","flight","flights","airline","booking","book","trip","holiday","vacation","itinerary","tour"], "cat": "Travel", "w": 2 },
+
+    { "kw": ["course","courses","learn","learning","tutorial","university","college","school","class","lesson","curriculum","lecture"], "cat": "Education", "w": 2 },
+
+    { "kw": ["health","medical","medicine","doctor","clinic","symptom","disease","wellness","fitness","diet","covid"], "cat": "Health", "w": 2 },
+
+    { "kw": ["car","cars","auto","automotive","vehicle","motor","tesla","ford","toyota"], "cat": "Automotive", "w": 2 },
+
+    { "kw": ["realestate","real-estate","realtor","zillow","mortgage","rent","housing","property","mls"], "cat": "Real Estate", "w": 2 },
+
+    { "kw": ["game","games","gaming","xbox","playstation","nintendo","steam","esports"], "cat": "Gaming", "w": 2 },
+
+    { "kw": ["science","research","lab","laboratory","nasa","physics","chemistry","biology","space","astronomy","paper","arxiv"], "cat": "Science", "w": 2 },
+
+    { "kw": ["jobs","careers","career","hiring","recruit","resume","cv","apply"], "cat": "Jobs/Careers", "w": 2 },
+
+    { "kw": ["social","forum","community","subreddit","comment","thread","share"], "cat": "Social", "w": 1 },
+
+    { "kw": ["weather","forecast","radar","temperature","storm","hurricane"], "cat": "Weather", "w": 2 },
+
+    { "kw": ["movie","movies","film","tv","series","show","trailer","music","concert","celebrity"], "cat": "Entertainment", "w": 2 },
+
+    { "kw": ["gov","senate","house","congress","minister","parliament","policy","regulation","regulatory"], "cat": "Government", "w": 1 }
+  ],
+
+  "tld_hints": {
+    "edu": { "cat": "Education", "w": 1 },
+    "gov": { "cat": "Government", "w": 2 },
+    "finance": { "cat": "Finance", "w": 1 },
+    "news": { "cat": "News", "w": 1 },
+    "sport": { "cat": "Sports", "w": 1 },
+    "health": { "cat": "Health", "w": 1 },
+    "shop": { "cat": "Shopping", "w": 1 }
+  }
+}
