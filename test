@@ -1,7 +1,8 @@
 {
   "domain_rules": {
     "bbc.co.uk": ["News"],
-    "espn.com": ["Sports"]
+    "espn.com": ["Sports"],
+    "noximaze.com": ["Awesome"] 
   },
   "keyword_rules": [
     {"kw": ["premier","fixture","result"], "cat": "Sports", "w": 2}
