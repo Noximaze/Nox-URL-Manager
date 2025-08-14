@@ -1,6 +1,6 @@
 {
   "domain_rules": {
-    "lourvre.fr": ["Culture","Art"],
+    "lourvre.fr": ["Culture", "Art"],
     "chatgpt.com": ["AI"],
     "espn.com": ["Sports"],
     "nfl.com": ["Sports"],
