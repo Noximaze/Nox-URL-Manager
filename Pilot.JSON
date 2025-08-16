@@ -90,7 +90,8 @@
     "intuit.com": ["Finance"],
     "coinbase.com": ["Finance"],
     "binance.com": ["Finance"],
-    "kraken.com": ["Finance"]
+    "kraken.com": ["Finance"],
+    "myvirtualbranch.com": ["Finance"]
   },
 
   "keyword_rules": [
