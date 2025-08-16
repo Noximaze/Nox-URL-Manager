@@ -94,7 +94,25 @@
     "myvirtualbranch.com": ["Finance"],
     "buffer.com": ["Entertainment", "Social Media"],
     "cash.app": ["Finance"],
-    "flipboard": ["Entertainment", "Social Media"]
+    "flipboard": ["Entertainment", "Social Media"],
+    "openai.com": ["AI"],
+    "bard.google.com": ["AI"],
+    "gemini.google.com": ["AI"],
+    "claude.ai": ["AI"],
+    "perplexity.ai": ["AI"],
+    "character.ai": ["AI"],
+    "midjourney.com": ["AI"],
+    "stability.ai": ["AI"],
+    "huggingface.co": ["AI"],
+    "poe.com": ["AI"],
+    "you.com": ["AI"],
+    "writesonic.com": ["AI"],
+    "jasper.ai": ["AI"],
+    "copy.ai": ["AI"],
+    "deepmind.com": ["AI"],
+    "replika.ai": ["AI"],
+    "runwayml.com": ["AI"],
+    "suno.ai": ["AI"]
   },
 
   "keyword_rules": [
