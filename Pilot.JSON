@@ -8,63 +8,52 @@
     "mlb.com": ["Sports"],
     "nhl.com": ["Sports"],
     "skysports.com": ["Sports"],
-
     "allrecipes.com": ["Food"],
     "foodnetwork.com": ["Food"],
     "cooking.nytimes.com": ["Food"],
     "yelp.com": ["Food", "Travel"],
-
     "finance.yahoo.com": ["Finance"],
     "investopedia.com": ["Finance"],
     "marketwatch.com": ["Finance"],
     "bloomberg.com": ["Finance", "News"],
     "coinmarketcap.com": ["Finance"],
-
     "techcrunch.com": ["Technology", "News"],
     "github.com": ["Technology"],
     "stackoverflow.com": ["Technology", "Education"],
     "learn.microsoft.com": ["Technology", "Education"],
-
     "tripadvisor.com": ["Travel", "Food"],
     "booking.com": ["Travel"],
     "expedia.com": ["Travel"],
     "airbnb.com": ["Travel"],
-
     "cdc.gov": ["Health", "Government"],
     "who.int": ["Health"],
     "webmd.com": ["Health"],
-
     "khanacademy.org": ["Education"],
     "coursera.org": ["Education"],
-
     "cars.com": ["Automotive"],
     "caranddriver.com": ["Automotive"],
-
     "zillow.com": ["Real Estate"],
     "realtor.com": ["Real Estate"],
-
     "indeed.com": ["Jobs/Careers"],
     "glassdoor.com": ["Jobs/Careers"],
-
     "weather.com": ["Weather"],
     "accuweather.com": ["Weather"],
-
     "amazon.com": ["Shopping"],
     "walmart.com": ["Shopping"],
     "target.com": ["Shopping"],
     "bestbuy.com": ["Shopping"],
-
     "cnn.com": ["News"],
     "bbc.com": ["News"],
     "reuters.com": ["News"],
     "apnews.com": ["News"],
     "nytimes.com": ["News"],
-
     "imdb.com": ["Entertainment"],
     "rottentomatoes.com": ["Entertainment"],
     "twitch.tv": ["Entertainment", "Gaming"],
     "ign.com": ["Gaming", "Entertainment"],
-    "reddit.com": ["Social", "News"]
+    "reddit.com": ["Social", "News"],
+    "facebook.com": ["Social", "Entertainment"],
+    "instagram.com": ["Social", "Entertainment"]
   },
 
   "keyword_rules": [
@@ -76,7 +65,7 @@
 
     { "kw": ["tech","technology","software","developer","dev","coding","api","sdk","cloud","kubernetes","docker","linux","windows","macos","android","ios","server","database"], "cat": "Technology", "w": 2 },
 
-    { "kw": ["news","breaking","headline","journal","times","post","gazette","tribune","daily"], "cat": "News", "w": 1 },
+    { "kw": ["breaking","daily","exclusive","gazette","headline","journal","news","post","times","tribune"], "cat": "News", "w": 1 },
 
     { "kw": ["shop","shopping","store","cart","checkout","deal","deals","sale","purchase","retail"], "cat": "Shopping", "w": 2 },
 
@@ -112,6 +101,9 @@
     "news": { "cat": "News", "w": 1 },
     "sport": { "cat": "Sports", "w": 1 },
     "health": { "cat": "Health", "w": 1 },
-    "shop": { "cat": "Shopping", "w": 1 }
+    "shop": { "cat": "Shopping", "w": 1 },
+    "blog": { "cat": "News", "w": 1 },
+    "press": { "cat": "News", "w": 1 }
   }
 }
+
