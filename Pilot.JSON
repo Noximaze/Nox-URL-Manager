@@ -53,7 +53,8 @@
     "ign.com": ["Gaming", "Entertainment"],
     "reddit.com": ["Social", "News"],
     "facebook.com": ["Social", "Entertainment"],
-    "instagram.com": ["Social", "Entertainment"]
+    "instagram.com": ["Social", "Entertainment"],
+    "x.com": ["Social", "Entertainment"]
   },
 
   "keyword_rules": [
