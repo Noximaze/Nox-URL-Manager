@@ -112,7 +112,9 @@
     "deepmind.com": ["AI"],
     "replika.ai": ["AI"],
     "runwayml.com": ["AI"],
-    "suno.ai": ["AI"]
+    "suno.ai": ["AI"],
+    "hidock.com": ["AI"],
+    "plaud.ai": ["AI"]
   },
 
   "keyword_rules": [
