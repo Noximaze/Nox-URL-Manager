@@ -138,7 +138,19 @@
     "latimes.com": ["News"],
     "ft.com": ["News"],
     "telegraph.co.uk": ["News"],
-    "audible.com": ["Entertainment"]
+    "audible.com": ["Books", "Entertainment"],
+    "goodreads.com": ["Books"],
+    "gutenberg.org": ["Books"],
+    "projectgutenberg.org": ["Books"],
+    "openlibrary.org": ["Books"],
+    "librivox.org": ["Books"],
+    "smashwords.com": ["Books"],
+    "bookbub.com": ["Books"],
+    "scribd.com": ["Books"],
+    "wattpad.com": ["Books"],
+    "googlebooks.com": ["Books"],
+    "amazon.com/books": ["Books"],
+    "barnesandnoble.com": ["Books"]
   },
 
   "keyword_rules": [
