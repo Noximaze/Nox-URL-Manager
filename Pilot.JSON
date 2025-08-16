@@ -51,10 +51,20 @@
     "rottentomatoes.com": ["Entertainment"],
     "twitch.tv": ["Entertainment", "Gaming"],
     "ign.com": ["Gaming", "Entertainment"],
-    "reddit.com": ["Social", "News"],
+    "reddit.com": ["News", "Social", "Entertainment"],
     "facebook.com": ["Social", "Entertainment"],
     "instagram.com": ["Social", "Entertainment"],
-    "x.com": ["Social", "Entertainment"]
+    "x.com": ["Social", "Entertainment"],
+    "linkedin.com": ["Social", "Entertainment"],
+    "tiktok.com": ["Social", "Entertainment"],
+    "snapchat.com": ["Social", "Entertainment"],
+    "pinterest.com": ["Social", "Entertainment"],
+    "tumblr.com": ["Social", "Entertainment"],
+    "threads.net": ["Social", "Entertainment"],
+    "mastodon.social": ["Social", "Entertainment"],
+    "weibo.com": ["Social", "Entertainment"],
+    "vk.com": ["Social", "Entertainment"],
+    "trakt.com": ["Entertainment"]
   },
 
   "keyword_rules": [
