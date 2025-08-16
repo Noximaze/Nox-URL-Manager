@@ -91,11 +91,13 @@
     "coinbase.com": ["Finance"],
     "binance.com": ["Finance"],
     "kraken.com": ["Finance"],
-    "myvirtualbranch.com": ["Finance"]
+    "myvirtualbranch.com": ["Finance"],
+    "buffer.com": ["Entertainment", "Social Media"],
+    "cash.app": ["Finance"]
   },
 
   "keyword_rules": [
-    { "kw": ["sport","sports","nfl","nba","mlb","nhl","soccer","football","tennis","golf","fifa","uefa","score","fixture","odds"], "cat": "Sports", "w": 2 },
+    { "kw": ["sport","sports","nfl","nba","mlb","nhl","soccer","football","tennis","golf","fifa","uefa"], "cat": "Sports", "w": 2 },
 
     { "kw": ["recipe","recipes","cook","cooking","restaurant","menu","food","dining","eat","chef","bake"], "cat": "Food", "w": 2 },
 
