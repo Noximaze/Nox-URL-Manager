@@ -93,7 +93,8 @@
     "kraken.com": ["Finance"],
     "myvirtualbranch.com": ["Finance"],
     "buffer.com": ["Entertainment", "Social Media"],
-    "cash.app": ["Finance"]
+    "cash.app": ["Finance"],
+    "flipboard": ["Entertainment", "Social Media"]
   },
 
   "keyword_rules": [
