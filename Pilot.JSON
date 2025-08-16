@@ -152,7 +152,7 @@
 
     { "kw": ["movie","movies","film","tv","series","show","trailer","music","concert","celebrity"], "cat": "Entertainment", "w": 2 },
 
-    { "kw": ["gov","senate","house","congress","minister","parliament","policy","regulation","regulatory"], "cat": "Government", "w": 1 }
+    { "kw": ["gov","senate","house","congress","minister","parliament"], "cat": "Government", "w": 1 }
   ],
 
   "tld_hints": {
