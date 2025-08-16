@@ -42,6 +42,8 @@
     "walmart.com": ["Shopping"],
     "target.com": ["Shopping"],
     "bestbuy.com": ["Shopping"],
+    "fm.com": ["Business", "Insurance"],
+    "fmglobal.com": ["Business", "Insurance"],
     "cnn.com": ["News"],
     "bbc.com": ["News"],
     "reuters.com": ["News"],
