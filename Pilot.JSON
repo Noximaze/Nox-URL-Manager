@@ -155,6 +155,7 @@
     "contactsplus.com": ["Contacts"],
     "voice.google.com": ["VOIP"],
     "ifttt.com": ["Automation"],
+    "nextdns.io": ["DNS"],
     "barnesandnoble.com": ["Books"]
   },
 
