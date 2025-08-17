@@ -154,6 +154,7 @@
     "contacts.google.com": ["Contacts"],
     "contactsplus.com": ["Contacts"],
     "voice.google.com": ["VOIP"],
+    "ifttt.com": ["Automation"],
     "barnesandnoble.com": ["Books"]
   },
 
