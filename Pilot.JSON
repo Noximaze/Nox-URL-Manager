@@ -156,7 +156,14 @@
     "voice.google.com": ["VOIP"],
     "ifttt.com": ["Automation"],
     "nextdns.io": ["DNS"],
-    "barnesandnoble.com": ["Books"]
+    "barnesandnoble.com": ["Books"],
+    "experian.com": ["Finance", "Credit"],
+    "equifax.com": ["Finance", "Credit"],
+    "transunion.com": ["Finance", "Credit"],
+    "annualcreditreport.com": ["Finance", "Credit"],
+    "creditkarma.com": ["Finance", "Credit"],
+    "creditsesame.com": ["Finance", "Credit"],
+    "myfico.com": ["Finance", "Credit"]
   },
 
   "keyword_rules": [
