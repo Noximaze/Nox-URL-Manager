@@ -150,6 +150,8 @@
     "wattpad.com": ["Books"],
     "googlebooks.com": ["Books"],
     "amazon.com/books": ["Books"],
+    "contacts.google.com": ["Contacts"],
+    "contactsplus.com": ["Contacts"],
     "barnesandnoble.com": ["Books"]
   },
 
