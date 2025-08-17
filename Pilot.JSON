@@ -153,6 +153,7 @@
     "read.amazon.com": ["Books", "Reading"],
     "contacts.google.com": ["Contacts"],
     "contactsplus.com": ["Contacts"],
+    "voice.google.com": ["VOIP"],
     "barnesandnoble.com": ["Books"]
   },
 
