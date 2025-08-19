@@ -192,7 +192,7 @@
     "scribd.com": ["Books"],
     "wattpad.com": ["Books"],
     "googlebooks.com": ["Books"],
-    "amazon.com/books": ["Books", "Reading"],
+    "amazon.com/books": ["Reading", "Books"],
     "read.amazon.com": ["Books", "Reading"],
     "contacts.google.com": ["Contacts"],
     "contactsplus.com": ["Contacts"],
@@ -231,7 +231,8 @@
     "annualcreditreport.com": ["Finance", "Credit"],
     "creditkarma.com": ["Finance", "Credit"],
     "creditsesame.com": ["Finance", "Credit"],
-    "myfico.com": ["Finance", "Credit"]
+    "myfico.com": ["Finance", "Credit"],
+    "nirsoft.com": ["Utilities"]
   },
 
   "keyword_rules": [
