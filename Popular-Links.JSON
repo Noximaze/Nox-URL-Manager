@@ -1,16 +1,5 @@
 {
   "domain_rules": {
-    "192.168.*": ["Local Network"],
-    "10.*": ["Local Network"],    
-    "https://www.facebook.com": ["My Websites","My Domains"],
-    "https://www.noximaze.com": ["My Websites","My Domains"]
-  },
-
-  "keyword_rules": [
-    { "kw": ["movie","movies","film","tv","series","show","trailer","music","concert","celebrity"], "cat": "Entertainment", "w": 2 }
-  ],
-
-  "tld_hints": {
-    "blog": { "cat": "News", "w": 1 }
+    "https://www.noximaze.com": ["Noximaze","Nox URL Launcher"]
   }
 }
