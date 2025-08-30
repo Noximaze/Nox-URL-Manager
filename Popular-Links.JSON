@@ -2,8 +2,8 @@
   "domain_rules": {
     "192.168.*": ["Local Network"],
     "10.*": ["Local Network"],    
-    "facebook.com": ["My Websites","My Domains"],
-    "noximaze.com": ["My Websites","My Domains"]
+    "https://www.facebook.com": ["My Websites","My Domains"],
+    "https://www.noximaze.com": ["My Websites","My Domains"]
   },
 
   "keyword_rules": [
