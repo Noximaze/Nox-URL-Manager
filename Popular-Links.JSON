@@ -1,5 +1,6 @@
 {
   "domain_rules": {
-    "https://www.noximaze.com": ["Noximaze","Nox URL Launcher"]
+    "https://www.noximaze.com": ["Noximaze","Nox URL Launcher"],
+    "https://www.noximaze.com/NoxURLManager": ["Noximaze","Nox URL Launcher"]    
   }
 }
