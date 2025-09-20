@@ -334,7 +334,7 @@
     "scribd.com": ["Books"],
     "wattpad.com": ["Books"],
     "googlebooks.com": ["Books"],
-    "amazon.com/books": ["Reading", "Books"],
+    "amazon.com/books": ["Books", "Reading"],
     "read.amazon.com": ["Books", "Reading"],
     "contacts.google.com": ["Contacts"],
     "contactsplus.com": ["Contacts"],
