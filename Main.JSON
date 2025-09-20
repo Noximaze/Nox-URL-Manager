@@ -1,5 +1,6 @@
 {
   "domain_rules": {
+    "example.com": ["TEST"],
     "192.168.*": ["Local Network"],
     "10.*": ["Local Network"],
     "172.16.*": ["Local Network"],
